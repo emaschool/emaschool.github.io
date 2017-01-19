@@ -1,3 +1,7 @@
-.container{
+.container-fluid{
   background-color: red;
+}
+
+.col-sm-6{
+	background-color: blue;
 }
